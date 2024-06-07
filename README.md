@@ -15,3 +15,5 @@ Vite: A fast build tool that provides a modern development experience.
 React: A popular JavaScript library for building user interfaces.
 Redux Toolkit: The official, recommended way to write Redux logic.
 Tailwind CSS: A utility-first CSS framework for rapidly building custom designs.
+
+this is project link:http://localhost:5181/
