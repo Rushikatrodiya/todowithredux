@@ -1,8 +1,17 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+TodoApp
+TodoApp is a simple and efficient task management application built using Vite and Redux Toolkit. This project demonstrates the use of modern web development technologies to create a responsive and user-friendly todo list application.
 
-Currently, two official plugins are available:
+Features
+Add Todos: Easily add new tasks to your todo list.
+Delete Todos: Remove tasks from your list once they are completed.
+Persist State: The application state is managed using Redux Toolkit, ensuring a predictable state container.
+Responsive Design: The UI is built with Tailwind CSS, making it responsive and visually appealing on all devices.
+Fast Development: Built with Vite for lightning-fast development and hot module replacement (HMR).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies Used
+Vite: A fast build tool that provides a modern development experience.
+React: A popular JavaScript library for building user interfaces.
+Redux Toolkit: The official, recommended way to write Redux logic.
+Tailwind CSS: A utility-first CSS framework for rapidly building custom designs.
